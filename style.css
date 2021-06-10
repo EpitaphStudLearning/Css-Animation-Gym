@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple (France)</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+  </head>
+  <body>
+  <nav class="navbar">
+      <ul>
+          <li class="litems"><img src="/images/apple.png" alt="apple logo" width="20px"></li>
+          <li class="litems">Mac</li>
+          <li class="litems">iPad</li>
+          <li class="litems">iPhone</li>
+          <li class="litems">Watch</li>
+          <li class="litems">TV</li>
+          <li class="litems">Music</li>
+          <li class="litems">Assistance</li>
+          <li class="litems"><img src="/images/magnifying-glass.png" alt="magnifier logo" width="20px"></li>
+          <li class="litems"><img src="/images/basket.png" alt="basket logo" width="20px"></li>
+      </ul>
+  </nav>
+  </body>
+</html>
